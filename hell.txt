@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 nihao,你好
 郭佳璐修改dev
+=======
+nnihao,你好
+>>>>>>> devs
